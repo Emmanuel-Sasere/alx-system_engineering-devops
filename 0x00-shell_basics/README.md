@@ -1,1 +1,1 @@
-pwd is used to print the absolute path name of the current working directory
+This is 0x00-shell_basics readme file
