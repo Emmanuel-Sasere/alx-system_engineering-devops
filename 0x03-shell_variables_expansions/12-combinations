@@ -1,3 +1,2 @@
 #!/bin/bash
 seq -f "%g%g" 0 25 | grep -v "oo"
-
