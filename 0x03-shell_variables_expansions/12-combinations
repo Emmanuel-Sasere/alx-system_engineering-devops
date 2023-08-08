@@ -1,2 +1,2 @@
 #!/bin/bash
-seq -f "%g%g" 0 25 | grep -v "oo"
+echo {a..z}{a..z}|tr """\n"|grep-v "oo"
